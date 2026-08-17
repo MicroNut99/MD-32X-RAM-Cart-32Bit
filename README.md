@@ -6,7 +6,7 @@ MD-32X-RAM-Cart-32Bit
 <br>Large battery-backed SRAM game save storage.
 <br>
 <br>This work is not connected to the DOOM 32X Fusion project.
-<br>This is my totally amateur attempt to make this chipset work on the Sega32X.
+<br>This is my totally amateur attempt to make this chipset work with the Sega32X.
 <br>Expect better from the professionals on the Doom Fusion Team.
 <br>Special thanks to Chilly Willy and Zaxour, the Great for the technical and moral support.
 <img src="https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/4m_cy62167e_x2.jpg" width="600" alt="MD-32X RAM Cart">
