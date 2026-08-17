@@ -1,6 +1,6 @@
 # MD-32X-RAM-Cart-32Bit
 
-MD-32X-RAM-Cart
+MD-32X-RAM-Cart-32Bit
 
 <img src="https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/4m_cy62167e_x2.jpg" width="600" alt="MD-32X RAM Cart">
 
