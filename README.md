@@ -26,5 +26,5 @@ MD-32X-RAM-Cart-32Bit
 <br>As seen here:
 <br>https://consolemods.org/wiki/Genesis:MD_32X_RAM_Cart
 <br>
-<br>Based on the original design by Tiido.  
+<br>Based on the original design by Tiido.
 <br>More info: https://gendev.spritesmind.net/forum/viewtopic.php?f=4&t=1265
