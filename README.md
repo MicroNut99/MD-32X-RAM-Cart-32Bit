@@ -1,25 +1,25 @@
 # MD-32X-RAM-Cart-32Bit
 
 MD-32X-RAM-Cart-32Bit
-Load games from a SEGA CD with a Sega32X.
-Experimental 4MiB RAM expantion for SegaCD Games.
-Large battery-backed SRAM game save storage.
+<br>Load games from a SEGA CD with a Sega32X.
+<br>Experimental 4MiB RAM expantion for SegaCD Games.
+<br>Large battery-backed SRAM game save storage.
 
-This project is not connected to DOOM 32X Fusion.
-This is my totally ammature attempt to make this chipset work on the Sega32X.
+<br>This project is not connected to DOOM 32X Fusion.
+<br>This is my totally ammature attempt to make this chipset work on the Sega32X.
 
 <img src="https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/4m_cy62167e_x2.jpg" width="600" alt="MD-32X RAM Cart">
 
-A 4MiB RAM cart design for the Sega Genesis/Megadrive and the SEGA 32X.  
-Based on this design by MiGeRA
-https://github.com/viciious/MD-32X-RAM-Cart?tab=readme-ov-file
+<br>A 4MiB RAM cart design for the Sega Genesis/Megadrive and the SEGA 32X.  
+<br>Based on this design by MiGeRA
+<br>https://github.com/viciious/MD-32X-RAM-Cart?tab=readme-ov-file
 
-Works as MD RAM cart with the Sega 32X. 
-Supports 32Bit or LongWords.
+<br>Works as MD RAM cart with the Sega 32X. 
+<br>Supports 32Bit or LongWords.
 
-Ive included 32Bit Long Words Diagnostic ASM and BINs here
-This will not work on the orignal design by MiGeRA.
-Use this tiny app to determine if the cart is loading and reading 32bit words from SRAM. 
+<br>Ive included 32Bit Long Words Diagnostic ASM and BINs here
+<br>This will not work on the orignal design by MiGeRA.
+<br>Use this tiny app to determine if the cart is loading and reading 32bit words from SRAM. 
 https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32XSRAM_Remixed_v01_Final32Bit.zip
 
 As Seen here
