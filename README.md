@@ -19,7 +19,7 @@ MD-32X-RAM-Cart-32Bit
 <br>Supports 32Bit or LongWords.
 
 <br>Ive included 32Bit Long Words Diagnostic ASM and BINs here
-<br>ASM/BINs are included to determine if the cart is loading and reading 32bit words from SRAM. 
+<br>These BINs will determine if the cart is loading and reading 32bit words from SRAM.  
 <br>This will not work on the orignal design by MiGeRA.
 <br>https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32XSRAM_Remixed_v01_Final32Bit.zip
 
