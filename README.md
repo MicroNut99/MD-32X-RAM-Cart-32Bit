@@ -21,7 +21,7 @@ MD-32X-RAM-Cart-32Bit
 <br>Included are bins for 32Bit Long Words Diagnostics. Read the included assembly code using any txt editor. 
 <br>These BINs will determine if the cart is loading and reading 32bit words from SRAM correctly.
 <br>This will not work on the original design by MiGeRA.
-<br>https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32XSRAM_Remixed_v01_Final32Bit.zip
+<br>https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32bit_Longs_only_Diag.zip
 <br>
 <br>As seen here:
 <br>https://consolemods.org/wiki/Genesis:MD_32X_RAM_Cart
