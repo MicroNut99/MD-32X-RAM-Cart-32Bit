@@ -1,6 +1,12 @@
 # MD-32X-RAM-Cart-32Bit
 
 MD-32X-RAM-Cart-32Bit
+Load games from a SEGA CD with a Sega32X.
+Experimental 4MiB RAM expantion for SegaCD Games.
+Large battery-backed SRAM game save storage.
+
+This project is not connected to DOOM 32X Fusion.
+This is my totally ammature attempt to make this chipset work on the Sega32X.
 
 <img src="https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/4m_cy62167e_x2.jpg" width="600" alt="MD-32X RAM Cart">
 
@@ -15,9 +21,6 @@ Ive included 32Bit Long Words Diagnostic ASM and BINs here
 This will not work on the orignal design by MiGeRA.
 Use this tiny app to determine if the cart is loading and reading 32bit words from SRAM. 
 https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32XSRAM_Remixed_v01_Final32Bit.zip
-
-This project is not connected to DOOM 32X Fusion.
-This is my totally ammature attempt to make this chipset work on the Sega32X.
 
 As Seen here
 https://consolemods.org/wiki/Genesis:MD_32X_RAM_Cart
