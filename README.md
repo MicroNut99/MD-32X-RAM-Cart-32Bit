@@ -19,9 +19,9 @@ MD-32X-RAM-Cart-32Bit
 <br>Supports 32Bit or LongWords.
 <br>
 <br>Ive included 32Bit Long Words Diagnostic ASM and BINs here
-<br>These BINs will determine if the cart is loading and reading 32bit words from SRAM.  
+<br>These BINs will determine if the cart is loading and reading 32bit words from SRAM.
 <br>This will not work on the orignal design by MiGeRA.
-https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32XSRAM_Remixed_v01_Final32Bit.zip
+<br>https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32XSRAM_Remixed_v01_Final32Bit.zip
 <br>
 <br>As seen here:
 <br>https://consolemods.org/wiki/Genesis:MD_32X_RAM_Cart
