@@ -7,7 +7,6 @@ MD-32X-RAM-Cart-32Bit
 
 <br>This project is not connected to DOOM 32X Fusion.
 <br>This is my totally ammature attempt to make this chipset work on the Sega32X.
-
 <img src="https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/4m_cy62167e_x2.jpg" width="600" alt="MD-32X RAM Cart">
 
 <br>A 4MiB RAM cart design for the Sega Genesis/Megadrive and the SEGA 32X.  
@@ -20,7 +19,7 @@ MD-32X-RAM-Cart-32Bit
 <br>Ive included 32Bit Long Words Diagnostic ASM and BINs here
 <br>This will not work on the orignal design by MiGeRA.
 <br>Use this tiny app to determine if the cart is loading and reading 32bit words from SRAM. 
-https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32XSRAM_Remixed_v01_Final32Bit.zip
+<br>https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32XSRAM_Remixed_v01_Final32Bit.zip
 
 As Seen here
 https://consolemods.org/wiki/Genesis:MD_32X_RAM_Cart
