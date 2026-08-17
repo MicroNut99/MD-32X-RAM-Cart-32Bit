@@ -1,7 +1,7 @@
 # MD-32X-RAM-Cart-32Bit
 
 MD-32X-RAM-Cart-32Bit
-<br>Load games from a SEGA CD with a Sega32X.
+<br>Load games from a SEGA CD with a Sega32X attachment.
 <br>Experimental 4MiB RAM expansion for SegaCD Games.
 <br>Large battery-backed SRAM game save storage.
 <br>
