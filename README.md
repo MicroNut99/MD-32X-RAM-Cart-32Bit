@@ -5,7 +5,7 @@ MD-32X-RAM-Cart-32Bit
 <br>Experimental 4MiB RAM expantion for SegaCD Games.
 <br>Large battery-backed SRAM game save storage.
 <br>
-<br>This work is not connected to DOOM 32X Fusion project.
+<br>This work is not connected to the DOOM 32X Fusion project.
 <br>This is my totally ammature attempt to make this chipset work on the Sega32X.
 <br>Expect better from the professionals on the Doom Fusion Team.
 <br>Special thanks to Chilly Willy and Zaxour, the Great for the techinical and moral support.
