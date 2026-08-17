@@ -6,8 +6,10 @@ Based on this design by MiGeRA
 https://github.com/viciious/MD-32X-RAM-Cart?tab=readme-ov-file
 
 Works as MD RAM cart with the Sega 32X. 
-
 Supports 32Bit or LongWords. 
+
+This project is not connected to DOOM 32X Fusion.
+This is my totally ammature attempt to make this chipset work on the Sega32X
 
 Based on the original design by Tiido.  
 More info: https://gendev.spritesmind.net/forum/viewtopic.php?f=4&t=1265
