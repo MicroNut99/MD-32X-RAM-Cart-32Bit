@@ -1,6 +1,8 @@
 # MD-32X-RAM-Cart-32Bit
 
-MD-32X-RAM-Cart  
+MD-32X-RAM-Cart
+https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/4m_cy62167e_x2.jpg
+
 A 4MiB RAM cart design for the Sega Genesis/Megadrive and the 32X.  
 Based on this design by MiGeRA
 https://github.com/viciious/MD-32X-RAM-Cart?tab=readme-ov-file
