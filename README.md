@@ -1,9 +1,9 @@
 # MD-32X-RAM-Cart-32Bit
 
 MD-32X-RAM-Cart-32Bit
-<br>Load games from a SEGA CD with a Sega32X attachment.
-<br>Experimental 4MiB RAM expansion for SegaCD Games.
-<br>Large battery-backed SRAM game save storage.
+<br>Flash Genesis & 32X games directly via Sega CD.
+<br>High-capacity, battery-backed SRAM save storage.
+<br>Experimental 4MB RAM expansion for Sega CD homebrew.
 <br>
 <br>This work is not connected to the DOOM 32X Fusion project.
 <br>This is my totally amateur attempt to make this chipset work with the Sega32X.
