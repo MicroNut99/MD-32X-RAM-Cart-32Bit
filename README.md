@@ -1,7 +1,7 @@
 # MD-32X-RAM-Cart-32Bit
 
 MD-32X-RAM-Cart-32Bit
-<br>Flash Genesis & 32X games directly via Sega CD.
+<br>Load MD & 32X games directly via Sega CD.
 <br>High-capacity, battery-backed SRAM save storage.
 <br>Experimental 4MB RAM expansion for Sega CD homebrew.
 <br>
