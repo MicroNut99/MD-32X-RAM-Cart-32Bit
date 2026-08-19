@@ -17,7 +17,8 @@ MD-32X-RAM-Cart-32Bit
 <br>Works as MD RAM cart with the Sega 32X. 
 <br>Supports 32Bit Word or Longs.
 <br>
-<br>Included are bins for 32Bit Word or Longs Diagnostics. For more information read the included assembly (.asm) code using any txt editor. 
+<br>Included are bins for 32Bit Word or Longs Diagnostics. 
+<br>For more information read the included assembly (.asm) code using any txt editor. 
 <br>Use the included BINs to determine if the cart is loading and reading 32bit Word or Longs from SRAM correctly.
 <br>These will not work on the original design by MiGeRA.
 <br>https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32bit_Longs_only_Diag.zip
