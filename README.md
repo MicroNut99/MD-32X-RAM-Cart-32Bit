@@ -11,6 +11,7 @@ MD-32X-RAM-Cart-32Bit
 <br>Expect better from the professionals on the Doom Fusion Team.
 <br>Special thanks to Chilly Willy and Zaxour the Great, for the technical and moral support.
 <img src="https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/4m_cy62167e_x2.jpg" width="600" alt="MD-32X RAM Cart">
+<img src="https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/0820261305b.jpg" width="600" alt="MD-32X RAM Cart">
 <br>A 4MiB RAM cart design for the Sega Genesis/Megadrive and the SEGA 32X.  
 <br>Based on this design by MiGeRA
 <br>https://github.com/viciious/MD-32X-RAM-Cart?tab=readme-ov-file
