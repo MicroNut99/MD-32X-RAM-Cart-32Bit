@@ -1,12 +1,13 @@
 # MD-32X-RAM-Cart-32Bit
 
 MD-32X-RAM-Cart-32Bit
-<br>Load MD & 32X games directly via Sega CD.
-<br>High-capacity, battery-backed SRAM save storage.
-<br>Experimental 4MB RAM expansion for Sega CD homebrew.
+<br>
+<br>1,Load MD & 32X games directly via Sega CD.
+<br>2.High-capacity, battery-backed SRAM save storage.
+<br>3.Experimental 4MB RAM expansion for Sega CD homebrew.
 <br>
 <br>This work is not connected to the DOOM 32X Fusion project.
-<br>This is my totally amateur attempt to make this chipset work with the Sega32X.
+<br>This is my totally amateur attempt to make this chipset work properly with the Sega32X.
 <br>Expect better from the professionals on the Doom Fusion Team.
 <br>Special thanks to Chilly Willy and Zaxour the Great, for the technical and moral support.
 <img src="https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/4m_cy62167e_x2.jpg" width="600" alt="MD-32X RAM Cart">
@@ -20,7 +21,7 @@ MD-32X-RAM-Cart-32Bit
 <br>Included are bins for 32Bit Word or Longs Diagnostics. 
 <br>For more information read the included assembly (.asm) code using any txt editor. 
 <br>Use the included BINs to determine if the cart is loading and reading 32bit Word or Longs from SRAM correctly.
-<br>These will not work on the original design by MiGeRA.
+<br>These will not pass on the original hardware design by MiGeRA, resulting in a red screen.
 <br>https://github.com/MicroNut99/MD-32X-RAM-Cart-32Bit/blob/main/32bit_Longs_only_Diag.zip
 <br>
 <br>More info here:
